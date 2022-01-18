@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://neovide.github.io/neovide/sitemap.xml
